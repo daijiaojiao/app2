@@ -1,6 +1,8 @@
 <template>
   <div id="nav">
     23432
+    123
+    213213
     <router-link to="/home">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
