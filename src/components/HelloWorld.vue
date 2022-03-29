@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
+      提交错了  再提交一次
       afdsf
       第六次commit合并第五次commit
       第五次commit合并第四次commit
